@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WA Status HD</string>
+    <string name="title_activity_main">WA Status HD</string>
+    <string name="package_name">com.dhaay.wastatushd</string>
+    <string name="custom_url_scheme">com.dhaay.wastatushd</string>
+</resources>
